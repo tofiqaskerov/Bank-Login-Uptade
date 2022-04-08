@@ -1,0 +1,15 @@
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\bin\Debug\net6.0\Bank-Login-Uptade.exe
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\bin\Debug\net6.0\Bank-Login-Uptade.deps.json
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\bin\Debug\net6.0\Bank-Login-Uptade.runtimeconfig.json
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\bin\Debug\net6.0\Bank-Login-Uptade.dll
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\bin\Debug\net6.0\Bank-Login-Uptade.pdb
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\obj\Debug\net6.0\Bank-Login-Uptade.csproj.AssemblyReference.cache
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\obj\Debug\net6.0\Bank-Login-Uptade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\obj\Debug\net6.0\Bank-Login-Uptade.AssemblyInfoInputs.cache
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\obj\Debug\net6.0\Bank-Login-Uptade.AssemblyInfo.cs
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\obj\Debug\net6.0\Bank-Login-Uptade.csproj.CoreCompileInputs.cache
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\obj\Debug\net6.0\Bank-Login-Uptade.dll
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\obj\Debug\net6.0\refint\Bank-Login-Uptade.dll
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\obj\Debug\net6.0\Bank-Login-Uptade.pdb
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\obj\Debug\net6.0\Bank-Login-Uptade.genruntimeconfig.cache
+C:\Users\Tofiq\Desktop\Compar.Academy\c#\Bank-Login-Uptade\Bank-Login-Uptade\obj\Debug\net6.0\ref\Bank-Login-Uptade.dll

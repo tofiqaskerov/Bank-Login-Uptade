@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bank-Login-Uptade/1.0.0": {
+        "runtime": {
+          "Bank-Login-Uptade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bank-Login-Uptade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
